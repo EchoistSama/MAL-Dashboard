@@ -28,3 +28,6 @@ Dynamically updated visuals by selecting February month(slicer). Anime that I ha
 
 
 Dynamically updated visuals by selecting Dropped status(slicer). Anime that I have dropped are displayed in the Multi-row card, also shows are the number of dropped anime and the average rating of all dropped anime.
+
+
+![Status_Dropped_Slicer](https://github.com/user-attachments/assets/afeb5463-f5f9-4292-9a16-3921502cbd11)
